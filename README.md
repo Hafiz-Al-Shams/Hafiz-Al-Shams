@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/jZDCD851/A-curious-Web-Developer.gif"  />
+  <img height="400" src="https://i.ibb.co.com/8LL9gmWs/A-curious-Web-Developer-who-is-always-excited-to-learn-adopt.gif"  />
 </div>
 
 ###
@@ -78,7 +78,7 @@
     <img src="https://nirzak-streak-stats.vercel.app?user=Hafiz-Al-Shams&theme=github-dark-blue&card_width=450" alt="GitHub Streak" />
 </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hafiz-Al-Shams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hafiz-Al-Shams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Hafiz-Al-Shams&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Al-Shams&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
