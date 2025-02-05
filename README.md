@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/4nXvgjnz/A-curious-Web-Developer-who-is-always-excited-to-learn-adopt-with-the-new-technologies.gif"  />
+  <img height="400" src="https://i.ibb.co.com/jZDCD851/A-curious-Web-Developer.gif"  />
 </div>
 
 ###
 
-<h2 align="left">Hafiz Al Shams<br>Junior Full Stack Developer</h2>
+<h1 align="left">Hafiz Al Shams<br>Junior Full Stack Developer</h1>
 
 ###
 
@@ -22,15 +22,15 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="52" alt="tailwindcss logo"  />
-  <img width="60" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
-  <img width="60" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo"  />
-  <img width="60" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="react logo"  />
-  <img width="60" />
+  <img width="50" />
   <img src="https://skillicons.dev/icons?i=express" height="52" alt="express logo"  />
-  <img width="60" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo"  />
 </div>
 
@@ -42,9 +42,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="35" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
-  <img width="35" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
@@ -78,7 +78,7 @@
     <img src="https://nirzak-streak-stats.vercel.app?user=Hafiz-Al-Shams&theme=github-dark-blue&card_width=450" alt="GitHub Streak" />
 </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hafiz-Al-Shams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hafiz-Al-Shams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Hafiz-Al-Shams&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Al-Shams&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
