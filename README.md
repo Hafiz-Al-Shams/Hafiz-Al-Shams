@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/G37n4SX4/github-cover-5.webp"  />
+  <img height="400" src="https://i.ibb.co.com/jPLqdmKG/github-cover-A1.webp"  />
 </div>
 
 ###
 
-<h1 align="left">Hafiz Al Shams<br>Junior Full Stack Developer</h1>
+<h1 align="left">Hafiz Al Shams<br>Junior Web Developer</h1>
 
 ###
 
