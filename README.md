@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/jPLqdmKG/github-cover-A1.webp"  />
+  <img height="400" src="https://i.ibb.co.com/Y7ZDhmcX/github-cover-new-A1.webp"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a restaurant management website<br>🌱 I'm currently exploring Next.js<br>🎯 Goal: Becoming an expert in full stack web development<br>⚡ Fun fact: I'm the fastest full-stack developer🤣</p>
+<p align="left">🔭 I’m currently working on a restaurant management website<br>⚡ I'm currently exploring Next.js & TypeScript<br>🎯 Goal: Becoming an expert in full stack web development</p>
 
 ###
 
