@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/Y7ZDhmcX/github-cover-new-A1.webp"  />
+  <img height="400" src="https://i.ibb.co.com/k60DqhRB/github-cover-new-A1-Optimized.png"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">I'm a Junior Full-Stack Developer. I work with the MERN stack and love solving real-world problems through coding.<br>About me I just can say- I may not know everything yet, but I never stop learning. And if there's a challenge, I will always find a way to overcome it through continuous learning and implementation.</p>
+<p align="left">I work with the MERN stack and love solving real-world problems through coding.<br>About me I just can say- I may not know everything yet, but I never stop learning. And if there's a challenge, I will always find a way to overcome it through continuous learning and implementation.</p>
 
 ###
 
@@ -63,7 +63,7 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/shams_world625" target="_blank">
+  <a href="https://x.com/hafiz_dev25" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/HafizAlShams25/" target="_blank">
