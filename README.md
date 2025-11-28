@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🅿 I’m currently working on a restaurant management website<br>⚡ I'm currently exploring Next.js & TypeScript<br>🎯 Goal: Becoming an expert in full stack web development</p>
+<p align="left">🅿 I’m currently working on several solo projects<br>⚡ I'm currently exploring new techs<br>🎯 Goal: Becoming an expert in web development</p>
 
 ###
 
