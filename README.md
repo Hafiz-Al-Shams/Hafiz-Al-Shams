@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-al-shams&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-al-shams" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hafiz-codes-25.netlify.app/](https://hafiz-codes-25.netlify.app/)
+- 👨‍💻 My projects are available at [https://hafiz-codes-25.netlify.app/](https://hafiz-codes-25.netlify.app/)
 
 - 📫 How to reach me **hafizalshams1917@gmail.com**
 
