@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ixnDRRSA5M1x8-uWs6nGwndXlcpq1YXv/view?usp=sharing](https://drive.google.com/file/d/1ixnDRRSA5M1x8-uWs6nGwndXlcpq1YXv/view?usp=sharing)
 
-- ⚡ Fun fact **I love coding more than anything!**
+- ⚡ Fun fact: **I love coding more than anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
