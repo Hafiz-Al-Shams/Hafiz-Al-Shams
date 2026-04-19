@@ -22,7 +22,6 @@
 - 🌱 I'm continuously learning and improving my skills in **backend development & system design**
 - 💬 Ask me about **React, Express.js, MongoDB, Firebase, or anything JavaScript**
 - 🎯 My goal is to write clean, efficient, and scalable code
-- 📍 Based in **Rangpur, Bangladesh**
 
 ---
 
@@ -57,14 +56,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Hafiz-Al-Shams&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://streak-stats.demolab.com/?user=Hafiz-Al-Shams&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hafiz-Al-Shams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Al-Shams&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
