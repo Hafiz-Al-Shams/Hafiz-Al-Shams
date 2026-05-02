@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Hafiz Al Shams" title="👋 Hi there! I'm Hafiz Al Shams"/>]
+
 <h1 align="center">Hi there, I'm Hafiz Al Shams 👋</h1>
 
 <p align="center">
