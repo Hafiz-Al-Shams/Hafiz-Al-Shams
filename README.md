@@ -1,9 +1,7 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Hafiz Al Shams" title="👋 Hi there! I'm Hafiz Al Shams"/>]
-
 <h1 align="center">Hi there, I'm Hafiz Al Shams 👋</h1>
 
 <p align="center">
-  <em>A passionate full-stack web developer from Bangladesh, building modern web experiences with the MERN stack.</em>
+  <em>A passionate full-stack web developer from Bangladesh, building modern web experiences.</em>
 </p>
 
 <p align="center">
@@ -20,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **full-stack web applications** using React, Node.js, and MongoDB
-- 🌱 I'm continuously learning and improving my skills in **backend development & system design**
-- 💬 Ask me about **React, Express.js, MongoDB, Firebase, or anything JavaScript**
+- 🔭 I'm currently working on **full-stack web applications** using MERN
+- 🌱 I'm continuously learning and improving my skills in **backend development**
+- 💬 Ask me about **React, Express.js, MongoDB, or anything JavaScript**
 - 🎯 My goal is to write clean, efficient, and scalable code
 
 ---
@@ -59,9 +57,6 @@
   <img src="https://streak-stats.demolab.com/?user=Hafiz-Al-Shams&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hafiz-Al-Shams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
-![Stats](https://github-flex.vercel.app/api/stats?username=Hafiz-Al-Shams&theme=dark)
-![Languages](https://github-flex.vercel.app/api/languages?username=Hafiz-Al-Shams)
 
 ---
 
