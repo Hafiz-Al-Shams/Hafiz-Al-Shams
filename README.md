@@ -58,6 +58,9 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hafiz-Al-Shams&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+![Stats](https://github-flex.vercel.app/api/stats?username=Hafiz-Al-Shams&theme=dark)
+![Languages](https://github-flex.vercel.app/api/languages?username=Hafiz-Al-Shams)
+
 ---
 
 <p align="center">
