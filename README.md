@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/MkpbNgCF/Hafiz-Al-Shams.png" alt="GitHub profile banner" width="100%" />
+  <img src="https://i.ibb.co.com/g8HXn44/Hafiz-Al-Shams.png" alt="GitHub profile banner" width="100%" />
 </p>
 <h1 align="center">Hi there, I'm Hafiz Al Shams 👋</h1>
 
