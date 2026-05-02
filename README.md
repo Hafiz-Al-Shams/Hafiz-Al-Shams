@@ -61,6 +61,8 @@
 ![Stats](https://github-flex.vercel.app/api/stats?username=Hafiz-Al-Shams&theme=dark)
 ![Languages](https://github-flex.vercel.app/api/languages?username=Hafiz-Al-Shams)
 
+![Hafiz Al Shams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafiz-Al-Shams&show_icons=true&theme=radical)
+
 ---
 
 <p align="center">
