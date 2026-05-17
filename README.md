@@ -23,8 +23,10 @@
 
 - 🔭 I'm currently working on **full-stack web applications** using MERN
 - 🌱 I'm continuously learning and improving my skills in **backend development**
+- 👨‍💻 All of my projects are available at **https://hafiz-codes-25.netlify.app/**
 - 💬 Ask me about **React, Express.js, MongoDB, or anything JavaScript**
 - 🎯 My goal is to write clean, efficient, and scalable code
+- 📫 How to reach me **hafizalshams1977@gmail.com**
 
 ---
 
