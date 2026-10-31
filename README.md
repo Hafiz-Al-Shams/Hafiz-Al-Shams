@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/HafizAlShams25">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://x.com/hafiz_al_shams">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
   </a>
@@ -23,7 +20,7 @@
 
 - 🔭 I'm currently working on **full-stack web applications** using MERN
 - 🌱 I'm continuously learning and improving my skills in **backend development**
-- 👨‍💻 All of my projects are available at **https://hafiz-codes-25.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://hafiz-codes.vercel.app/**
 - 💬 Ask me about **React, Express.js, MongoDB, or anything JavaScript**
 - 🎯 My goal is to write clean, efficient, and scalable code
 - 📫 How to reach me **hafizalshams1977@gmail.com**
