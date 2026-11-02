@@ -18,9 +18,9 @@
 - 🔭 I'm currently working on **full-stack web applications** using **MERN**, while expanding my skills in **Next.js**
 - 🌱 I'm continuously learning and improving my skills in **backend development** and **database management**
 - 🎯 My aim is to build **clean, maintainable, and efficient applications**
-- 📫 How to reach me **hafizalshams1977@gmail.com**
-- 👨‍💻 All of my projects are available at **[https://hafiz-codes.vercel.app/](https://hafiz-codes.vercel.app/)**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Seb8W54P2RY6YgU5F2qLrls0DlOVU0Bs/view?usp=drive_link](https://drive.google.com/file/d/1Seb8W54P2RY6YgU5F2qLrls0DlOVU0Bs/view?usp=drive_link)**
+- 📫 How to reach me: **hafizalshams1977@gmail.com**
+- 👨‍💻 All of my projects are available at: **[https://hafiz-codes.vercel.app/](https://hafiz-codes.vercel.app/)**
+- 📄 Know about my experiences: **[https://drive.google.com/file/d/1Seb8W54P2RY6YgU5F2qLrls0DlOVU0Bs/view?usp=drive_link](https://drive.google.com/file/d/1Seb8W54P2RY6YgU5F2qLrls0DlOVU0Bs/view?usp=drive_link)**
 
 ---
 
