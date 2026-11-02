@@ -1,5 +1,5 @@
 <a href="https://github.com/Hafiz-Al-Shams"> 
- <img align="center" src="./images/banner_image1.png" width="100%">    
+ <img align="center" src="./images/banner_image.webp" width="100%">    
 </a>
 <br/>
 <br/>
