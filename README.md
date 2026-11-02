@@ -2,6 +2,7 @@
  <img align="center" src="./images/banner_image1.png" width="100%">    
 </a>
 <br/>
+<br/>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Hafiz+Al+Shams">
