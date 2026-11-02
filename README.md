@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://i.ibb.co.com/g8HXn44/Hafiz-Al-Shams.png" alt="GitHub profile banner" width="100%" />
 </p>
-<h1 align="center">👋 Hi there, I'm Hafiz Al Shams</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Hafiz+Al+Shams">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=000000&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Hafiz+Al+Shams">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=000000&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Hafiz+Al+Shams" alt="Hi there, I'm Hafiz Al Shams">
+  </picture>
+</p>
 
 <p align="center">
   <em>A passionate full-stack web developer from Bangladesh, building modern web experiences.</em>
