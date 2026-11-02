@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/g8HXn44/Hafiz-Al-Shams.png" alt="GitHub profile banner" width="100%" />
-</p>
+<a href="https://github.com/Hafiz-Al-Shams"> 
+ <img align="center" src="./images/banner_image1.png" width="100%">    
+</a>
 <br/>
 <p align="center">
   <picture>
